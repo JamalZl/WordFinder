@@ -1,0 +1,14 @@
+C:\Users\User\Documents\C#\WordFinding\WordFinding\obj\Debug\netcoreapp3.1\WordFinding.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\WordFinding\WordFinding\obj\Debug\netcoreapp3.1\WordFinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C#\WordFinding\WordFinding\obj\Debug\netcoreapp3.1\WordFinding.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\WordFinding\WordFinding\obj\Debug\netcoreapp3.1\WordFinding.AssemblyInfo.cs
+C:\Users\User\Documents\C#\WordFinding\WordFinding\obj\Debug\netcoreapp3.1\WordFinding.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\WordFinding\WordFinding\bin\Debug\netcoreapp3.1\WordFinding.exe
+C:\Users\User\Documents\C#\WordFinding\WordFinding\bin\Debug\netcoreapp3.1\WordFinding.deps.json
+C:\Users\User\Documents\C#\WordFinding\WordFinding\bin\Debug\netcoreapp3.1\WordFinding.runtimeconfig.json
+C:\Users\User\Documents\C#\WordFinding\WordFinding\bin\Debug\netcoreapp3.1\WordFinding.runtimeconfig.dev.json
+C:\Users\User\Documents\C#\WordFinding\WordFinding\bin\Debug\netcoreapp3.1\WordFinding.dll
+C:\Users\User\Documents\C#\WordFinding\WordFinding\bin\Debug\netcoreapp3.1\WordFinding.pdb
+C:\Users\User\Documents\C#\WordFinding\WordFinding\obj\Debug\netcoreapp3.1\WordFinding.dll
+C:\Users\User\Documents\C#\WordFinding\WordFinding\obj\Debug\netcoreapp3.1\WordFinding.pdb
+C:\Users\User\Documents\C#\WordFinding\WordFinding\obj\Debug\netcoreapp3.1\WordFinding.genruntimeconfig.cache
